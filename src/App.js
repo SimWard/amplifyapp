@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            Hope this works and also I do not yet know how else to do anything in ReactJS.
           </p>
           <a
             className="App-link"
