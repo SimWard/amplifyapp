@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This demo can be seen running using [AWS Amplify](https://master.d3t9vwh4c2g58v.amplifyapp.com).
+I had used this more to practice deployment of applications using [AWS Amplify](https://master.d3t9vwh4c2g58v.amplifyapp.com).
 
 ## Available Scripts
 
